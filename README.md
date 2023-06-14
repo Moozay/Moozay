@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **CRUD application**
 
-- 🌱 I’m currently learning **Vue js**
+- 🌱 I’m currently learning **FastApi {Python}**
 
 - 💬 Ask me about **React, MongoDB, Node js, Express js, Java**
 
